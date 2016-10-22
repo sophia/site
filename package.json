@@ -1,0 +1,12 @@
+{
+  "name": "sophia",
+  "description": "My site",
+  "scripts": {
+    "start": "list ./content --port 4000"
+  },
+  "author": "Sophia Hofmann",
+  "license": "MIT",
+  "dependencies": {
+    "list": "^0.8.2"
+  }
+}
