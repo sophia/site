@@ -1,2 +1,3 @@
 # site
-My site
+
+Welcome to my personal playground!
