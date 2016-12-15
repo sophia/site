@@ -1,4 +1,4 @@
-# site
+# Sophia's site
 
 Welcome to my personal playground!
 
